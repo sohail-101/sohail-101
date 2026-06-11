@@ -9,23 +9,13 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-- C
-- C++
-- Java
-- Python
-- JavaScript
-- SQL
+- C, C++, Java, Python, JavaScript, SQL
 
 ### Web Development
-- HTML
-- CSS
-- JavaScript
+- HTML, CSS, JavaScript
 
 ### Tools & Technologies
-- Git & GitHub
-- Arduino IDE
-- MySQL
-
+- Git & GitHub, Arduino IDE, MySQL
 ---
 
 ## 🚀 Projects
@@ -39,18 +29,7 @@ An IoT-based smart traffic management system that detects emergency vehicles and
 
 ## 📚 Currently Learning
 
-- Data Structures & Algorithms
-- Machine Learning
-- Backend Development
-
----
-
-## 🎯 Goals
-
-- Build impactful software projects
-- Strengthen problem-solving skills
-- Contribute to open-source projects
-- Pursue opportunities in software engineering and AI
+- Data Structures & Algorithms, Machine Learning, Backend Development
 
 ---
 

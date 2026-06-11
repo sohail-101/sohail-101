@@ -18,7 +18,7 @@
 - Git & GitHub, Arduino IDE, MySQL
 
 ### Hardware
--Arduino
+- Arduino
 
 ---
 

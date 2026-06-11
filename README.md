@@ -16,6 +16,10 @@
 
 ### Tools & Technologies
 - Git & GitHub, Arduino IDE, MySQL
+
+### Hardware
+-Arduino
+
 ---
 
 ## 🚀 Projects
@@ -26,7 +30,11 @@ An IoT-based smart traffic management system that detects emergency vehicles and
 🔗 Repository: https://github.com/sohail-101/RescueRoute
 
 ---
+⚙️ Hardware & Embedded Work
+Built systems using:
+Arduino boards, Stepper motors, Circuit-based logic
 
+---
 ## 📚 Currently Learning
 
 - Data Structures & Algorithms, Machine Learning, Backend Development

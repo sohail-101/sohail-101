@@ -1,16 +1,63 @@
-## Hi there 👋
 
-<!--
-**sohail-101/sohail-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student  
+💻 Interested in Software Development and AI
+🌱 Currently learning Data Structures, Algorithms, and Machine Learning  
+🚀 Building projects that solve real-world problems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+- C
+- C++
+- Java
+- Python
+- JavaScript
+- SQL
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+
+### Tools & Technologies
+- Git & GitHub
+- Arduino IDE
+- MySQL
+
+---
+
+## 🚀 Projects
+
+### 🚑 RescueRoute – Emergency Vehicle Priority System
+An IoT-based smart traffic management system that detects emergency vehicles and dynamically adjusts traffic signals to reduce response times.
+
+🔗 Repository: https://github.com/sohail-101/RescueRoute
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Machine Learning
+- Backend Development
+
+---
+
+## 🎯 Goals
+
+- Build impactful software projects
+- Strengthen problem-solving skills
+- Contribute to open-source projects
+- Pursue opportunities in software engineering and AI
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/sohail-101
+- Linkedin: https://www.linkedin.com/in/sohail-shaik-02909037b/
+---
+
+> "Always learning, always building."
